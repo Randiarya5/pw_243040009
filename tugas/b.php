@@ -1,4 +1,4 @@
-     <title>b</title>
+     <title>B</title>
     <style>
         body {
             font-family: Arial, sans-serif;
