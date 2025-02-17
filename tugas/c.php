@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tugas 1c</title>
+    <title>c</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,7 +33,7 @@
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="grid">
         <div class="row">
             <div class="box">1</div>
         </div>
